@@ -1,4 +1,5 @@
 # Solution for the question: "What is the sum of all multiples of 3 or 5 less than 1000?"
+[![Build Status](https://travis-ci.org/yang70/sum_of_multiples.svg?branch=master)](https://travis-ci.org/yang70/sum_of_multiples)
 by [Matthew Yang](http://matthewgyang.com)
 
 ## Question Detail
